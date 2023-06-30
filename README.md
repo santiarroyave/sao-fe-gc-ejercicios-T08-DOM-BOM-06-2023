@@ -24,5 +24,5 @@ https://santiarroyave.github.io/sao-fe-gc-ejercicios-T08-DOM-BOM-06-2023/calcula
 
 Está adaptada para que:
 * Permita seguir operando con el resultado anterior.
-* Permita que el primer numero sea un valor negativo.
-* Sigue funcionando si presionamos algun operador antes de introducir un numero
+* Permita que el primer número sea un valor negativo.
+* Siga funcionando si presionamos algún operador antes de introducir un número.
